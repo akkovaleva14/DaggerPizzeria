@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DaggerPizzeria</string>
+    <string name="pizza_activity_title">Тут вам не додО</string>
+    <string name="pizza_name">Здесь могла бы быть ваша пицца</string>
+    <string name="pizza_size">Размер пиццы</string>
+    <string name="order_pizza">Заказать</string>
+</resources>
